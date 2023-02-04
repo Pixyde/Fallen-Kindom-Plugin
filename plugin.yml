@@ -1,0 +1,11 @@
+name: FkRapide
+version: 0.1
+author: Pixyde
+main: fr.pixyde.fk.Main
+commands:
+  team:
+    description: Cette commande sert a gérer les équipes
+    permission: team.use
+  manage:
+    description: Used to configure the game
+    permission: manage.use
